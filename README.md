@@ -1,12 +1,12 @@
 <img src="imgs/propeller.jpg">
 
-+ 投影片: https://github.com/rwepa/DataDemo/blob/master/propeller_design/ai_aeronautical_engineering.pdf
++ 投影片: https://github.com/rwepa/propeller_design/blob/main/ai_aeronautical_engineering.pdf
 
-+ ai_01_apc_method.py 程式碼: https://github.com/rwepa/DataDemo/blob/master/propeller_design/ai_01_apc_method.py
++ ai_01_apc_method.py 程式碼: https://github.com/rwepa/propeller_design/blob/main/ai_01_apc_method.py
 
-+ ai_02_aeronautical_engineering.py 程式碼: https://github.com/rwepa/DataDemo/blob/master/propeller_design/ai_02_aeronautical_engineering.py
++ ai_02_aeronautical_engineering.py 程式碼: https://github.com/rwepa/propeller_design/blob/main/ai_02_aeronautical_engineering.py
 
-+ ai_03_gold_price.py 程式碼: https://github.com/rwepa/DataDemo/blob/master/propeller_design/ai_03_gold_price.py
++ ai_03_gold_price.py 程式碼: https://github.com/rwepa/propeller_design/blob/main/ai_03_gold_price.py
 
 # 主題: 數據科學應用實務
 日期: 2024.11.20
