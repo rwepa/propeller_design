@@ -70,14 +70,14 @@ Windows 11 專業版 + Anaconda3-2023.09版本 + Spyder IDE 5.4.3
 + pip install tensorflow
 
 # 主題: 數據科學應用實務
-日期: 2024.11.20
+日期: 2024.11.20((遠距)
 
 # 主題: 資料科學與人工智慧應用
 日期: 2025.11.12,19
 
 # 大綱
 
-## 1. 資料分析暨視覺化的心法【ai_01_apc_method.py】
+## 1. 資料分析暨視覺化的心法
 
 1.1 RWEPA 簡介
 
@@ -87,7 +87,7 @@ Windows 11 專業版 + Anaconda3-2023.09版本 + Spyder IDE 5.4.3
 
 1.4 資料分析與視覺化應用
 
-## 2.AI與螺旋槳性能最佳化應用【ai_02_aeronautical_engineering.py】
+## 2.AI與螺旋槳性能最佳化應用
 
 2.1 螺旋槳資料集簡介
 
@@ -105,5 +105,6 @@ Windows 11 專業版 + Anaconda3-2023.09版本 + Spyder IDE 5.4.3
 
 2.8 Solidity 遺漏值, 使用 KNN 填補法
 
-## 3.遷移學習 (Transfer learning) 【ai_transfer_learning.ipynb】
+## 3.遷移學習 (Transfer learning) 
 
+## 4. 結論
