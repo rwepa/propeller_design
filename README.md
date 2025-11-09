@@ -79,6 +79,8 @@ Windows 11 專業版 + Anaconda3-2023.09版本 + Spyder IDE 5.4.3
 
 ## 1. 資料分析暨視覺化的心法
 
+[https://github.com/rwepa/propeller_design/blob/main/ai_aeronautical_engineering.pdf]
+
 1.1 RWEPA 簡介
 
 1.2 資料分析架構暨APC方法
