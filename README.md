@@ -91,6 +91,8 @@ Windows 11 專業版 + Anaconda3-2023.09版本 + Spyder IDE 5.4.3
 
 ## 2.AI與螺旋槳性能最佳化應用
 
+[https://github.com/rwepa/propeller_design/blob/main/ai_aeronautical_engineering.ipynb]
+
 2.1 螺旋槳資料集簡介
 
 2.2 螺旋槳資料集下載
@@ -108,5 +110,9 @@ Windows 11 專業版 + Anaconda3-2023.09版本 + Spyder IDE 5.4.3
 2.8 Solidity 遺漏值, 使用 KNN 填補法
 
 ## 3.遷移學習 (Transfer learning) 
+
+[https://github.com/rwepa/propeller_design/blob/main/ai_transfer_learning.ipynb]
+
+[https://github.com/rwepa/propeller_design/blob/main/tf2_image_retraining_revised.ipynb]
 
 ## 4. 結論
